@@ -12,5 +12,13 @@
 #### Kontakt:
 - E-adresa: miburcul@gmail.com
 - Telefonski broj: 0958525917
+- Društvene mreže: Facebook, Instagram
+- Trenutna razmjena poruka: WhatsApp
+
+#### Adresa:
+- Adresa:Put Vrisja 11
+- Poštanski broj:23206
+- Mjesto:Sukošan
+- Zemlja:Hrvatska
 
 
