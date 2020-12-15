@@ -39,8 +39,10 @@
 
 #### Jezične vještine:
 - Materinski jezik: Hrvatski
-- Strani jezik:Engleski
+- Strani jezik: Engleski
   - Razumijevanje:
+   - Slušanje: B1
+   - Čitanje: B2
 
 
 
