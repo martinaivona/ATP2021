@@ -1,5 +1,7 @@
 ## Životopis
 
+![](images/slika.jpeg)
+
 #### Osobni podaci:
 
 - Ime: Martina Ivona
@@ -52,6 +54,17 @@ Osnove programskih jezika:|Python, C++
 Frontend:|HTML,CSS,JavaScript
 Rad s bazama podataka:| /
 Sustavi za verzioniranje i suradnički rad:|Git,GitHub,Google Drive
+
+#### Društvene i političke aktivnosti:
+- Nisam društveno ni politički aktivna.
+
+#### Hobiji i interesi:
+- Filmovi, videoigrice, glazba, šetnja ... 
+
+#### Vozačka dozvola:
+- B kategorija
+
+####
 
 
 
