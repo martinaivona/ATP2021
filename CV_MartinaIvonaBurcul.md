@@ -37,6 +37,11 @@
 - Mjesto: Zadar
 - Od do:2009-2013
 
+#### Jezične vještine:
+- Materinski jezik: Hrvatski
+- Strani jezik:Engleski
+  - Razumijevanje:
+
 
 
 
