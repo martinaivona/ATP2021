@@ -28,6 +28,15 @@
 - Zemlja: Hrvatska
 - Od do: 01.01.2020. -
 
+#### Obrazovanje i osposobljavanje:
+- Osnovna škola: Osnovna škola Sukošan
+- Mjesto: Sukošan
+- Od do: 2001-2009
+
+- Srednja škola: Gimnazija Jurja Barakovića
+- Mjesto: Zadar
+- Od do:2009-2013
+
 
 
 
