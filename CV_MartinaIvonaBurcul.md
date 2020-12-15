@@ -1,6 +1,6 @@
 ## Životopis
 
-![](images/slika.jpeg)
+![](images/)
 
 #### Osobni podaci:
 
