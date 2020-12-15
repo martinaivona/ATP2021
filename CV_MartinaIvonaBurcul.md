@@ -43,6 +43,11 @@
   - Razumijevanje:
    - Slušanje: B1
    - Čitanje: B2
+   
+#### Digitalne vještine:
+Naziv|Vještine
+-----|--------
+Uredsko poslovanje: | Word, Excel, PowerPoint
 
 
 
