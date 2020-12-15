@@ -46,6 +46,7 @@
    
 #### Digitalne vještine:
 Naziv|Vještine
+---|---
 Uredsko poslovanje: | Word, Excel, PowerPoint
 Osnove programskih jezika:|Python, C++
 Frontend:|HTML,CSS,JavaScript
